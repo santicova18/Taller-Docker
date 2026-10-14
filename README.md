@@ -12,8 +12,8 @@
 - Docker Desktop abierto (Engine running)
 - Git
 ## Cómo ejecutarlo
-1. git clone [enlace de este repositorio]
-2. cd [nombre de la carpeta]
+1. git clone https://github.com/santicova18/Taller-Docker.git
+2. cd app-respaldo
 3. Copy-Item .env.example .env
 4. docker compose up -d --build
 5. Abrir http://localhost:8080
